@@ -5,7 +5,7 @@
 ## 📞 Contact
 
 - 📧 Email: joelleyarro@gmail.com  
-- 💼 GitHub:https://github.com/joelleyarro03/AI-Porfolio-Williane-Yarro-HCC/edit/main/README.md
+- 💼 GitHub:https://github.com/joelleyarro03/AI-Portfolio-Williane-Yarro-HCC/edit/main/README.md
 - 
 
 ✅ Applied AI Portfolio – Technical Skills & Step-by-Step Setup
