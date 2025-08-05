@@ -1,4 +1,4 @@
-# AI-Porfolio-Williane-Yarro-HCC
+# AI-Portfolio-Williane-Yarro-HCC
 
 # Williane Yarro – AI & NLP Portfolio
 
