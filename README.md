@@ -10,6 +10,7 @@
 
 ✅ Applied AI Portfolio – Technical Skills & Step-by-Step Setup
 🎯 Objective
+
 To develop a professional GitHub portfolio that showcases proficiency in the concepts and tools acquired through the Applied AI and Robotics program,
 making it appropriate for job applications, internships, or further academic pursuits.
 
